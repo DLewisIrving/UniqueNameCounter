@@ -22,3 +22,6 @@ Private Sub Worksheet_Change(ByVal Target As Range)
         End If
     End If
 End Sub
+
+#Save your workbook as a Macro-Enabled Excel File (.xlsm).
+
